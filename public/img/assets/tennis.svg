@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="28" height="28" transform="translate(318 390)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-0.089" y1="1.249" x2="-0.047" y2="1.229" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_11" data-name="Mask Group 11" transform="translate(-318 -390)" clip-path="url(#clip-path)">
+    <g id="tennis" transform="translate(318 390)">
+      <path id="Path_113" data-name="Path 113" d="M14,0A14,14,0,1,0,28,14,14.016,14.016,0,0,0,14,0Z" fill="#303c42"/>
+      <g id="Group_42" data-name="Group 42">
+        <path id="Path_114" data-name="Path 114" d="M26.813,13.608a12.623,12.623,0,0,1-8.689-3.733A12.7,12.7,0,0,1,14.4,1.187,12.831,12.831,0,0,1,26.813,13.608Z" fill="#c6ff00"/>
+        <path id="Path_115" data-name="Path 115" d="M1.187,14.4a12.616,12.616,0,0,1,8.688,3.73A12.7,12.7,0,0,1,13.6,26.813,12.831,12.831,0,0,1,1.187,14.4Z" fill="#c6ff00"/>
+      </g>
+      <path id="Path_116" data-name="Path 116" d="M14.77,26.794A13.857,13.857,0,0,0,10.7,17.3a13.75,13.75,0,0,0-9.494-4.073A12.83,12.83,0,0,1,13.23,1.206,13.857,13.857,0,0,0,17.3,10.7a13.858,13.858,0,0,0,9.494,4.073A12.83,12.83,0,0,1,14.77,26.794Z" fill="#e6e6e6"/>
+      <path id="Path_117" data-name="Path 117" d="M14.77,26.794A13.857,13.857,0,0,0,10.7,17.3a13.75,13.75,0,0,0-9.494-4.073A12.83,12.83,0,0,1,13.23,1.206,13.857,13.857,0,0,0,17.3,10.7a13.858,13.858,0,0,0,9.494,4.073A12.83,12.83,0,0,1,14.77,26.794Z" fill="#c6ff00"/>
+      <path id="Path_118" data-name="Path 118" d="M23.646,13.119a12.645,12.645,0,0,0,3.167.489A12.8,12.8,0,0,0,22.25,4.2a12.767,12.767,0,0,1,1.4,8.921Z" opacity="0.1"/>
+      <path id="Path_119" data-name="Path 119" d="M2.874,20.353A12.822,12.822,0,0,0,13.6,26.813a12.958,12.958,0,0,0-.628-3.636,12.575,12.575,0,0,1-10.1-2.825Z" opacity="0.1"/>
+      <path id="Path_120" data-name="Path 120" d="M14.129,22.953a14.139,14.139,0,0,1,.641,3.841A12.83,12.83,0,0,0,26.794,14.773a14.135,14.135,0,0,1-3.437-.533A12.871,12.871,0,0,1,14.129,22.953Z" opacity="0.1"/>
+      <path id="Path_121" data-name="Path 121" d="M14,0A14,14,0,1,0,28,14,14.016,14.016,0,0,0,14,0Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

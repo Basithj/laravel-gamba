@@ -1,0 +1,85 @@
+//
+// Navbar search
+//
+
+.navbar-search {
+    .input-group {
+        border-radius: $navbar-search-border-radius;
+        border: $navbar-search-border-width;
+        background-color: transparent;
+        width:100%;
+        height:auto;
+
+        .input-group-text {
+            background-color: transparent;
+            padding-left: 1rem;
+        }
+    }
+
+    .form-control {
+        width: $navbar-search-width;
+        background-color: transparent;
+        border: 1px solid #FFFFFF66;
+        border-radius:20px;
+        height:35px;
+    }
+
+    .input-group-append{
+        border-top-right-radius: 20px;
+        border-top: 1px solid #FFFFFF66;
+        border-bottom-right-radius: 20px;
+        border-left: medium none;
+        border-bottom: 1px solid #FFFFFF66;
+        border-right: 1px solid #FFFFFF66;
+        height: 35px;
+        margin-left: 0;
+    }
+}
+
+.navbar-search-dark {
+    .input-group {
+        border-color: $navbar-search-dark-border-color;
+    }
+
+    .input-group-text {
+        color: $navbar-search-dark-color;
+    }
+
+    .form-control {
+        color: $navbar-search-dark-focus-color;
+
+        &::placeholder {
+            color: $navbar-search-dark-color;
+        }
+    }
+
+    .focused {
+        .input-group {
+            border-color: $navbar-search-dark-focus-border-color;
+        }
+    }
+}
+
+.navbar-search-light {
+    .input-group {
+        border-color: $navbar-search-light-border-color;
+    }
+
+    .input-group-text {
+        color: $navbar-search-light-color;
+    }
+
+    .form-control {
+        color: $navbar-search-light-focus-color;
+
+        &::placeholder {
+            color: $navbar-search-light-color;
+        }
+    }
+
+    .focused {
+        .input-group {
+            border-color: $navbar-search-light-focus-border-color;
+        }
+    }
+}
